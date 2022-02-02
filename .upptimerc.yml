@@ -27,12 +27,8 @@ sites:
     url: https://polkadot.w3f.community/erastats
   - name: dot_location
     url:  https://polkadot.w3f.community/locationstats
-  - name: DOTMarketCap.com
-    url: https://dotmarketcap.com
-  - name: Subscan.io
-    url: https://kusama.subscan.io
-  - name: sub.id
-    url: https://sub.id
+  - name: google.com
+    url: https://google.com
 
 
 status-website:
