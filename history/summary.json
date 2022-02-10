@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1397,
     "timeDay": 588,
-    "timeWeek": 1445,
+    "timeWeek": 1455,
     "timeMonth": 1397,
     "timeYear": 1397,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 3080,
     "timeDay": 3296,
-    "timeWeek": 3351,
+    "timeWeek": 3373,
     "timeMonth": 3080,
     "timeYear": 3080,
     "dailyMinutesDown": {}
@@ -40,15 +40,15 @@
     "url": "https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://favicons.githubusercontent.com/kusama.w3f.community",
     "slug": "kusama-w3f-community-score-address",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 140,
-    "timeWeek": 345,
+    "timeDay": 141,
+    "timeWeek": 346,
     "timeMonth": 316,
     "timeYear": 316,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 3406,
     "timeDay": 3059,
-    "timeWeek": 3376,
+    "timeWeek": 3397,
     "timeMonth": 3406,
     "timeYear": 3406,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 464,
     "timeDay": 311,
-    "timeWeek": 508,
+    "timeWeek": 511,
     "timeMonth": 464,
     "timeYear": 464,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 295,
-    "timeWeek": 393,
+    "timeWeek": 395,
     "timeMonth": 391,
     "timeYear": 391,
     "dailyMinutesDown": {}
