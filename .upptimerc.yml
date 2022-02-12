@@ -9,31 +9,31 @@ sites:
 #####################
   - name: kusama.w3f.community/candidate/address
     url: https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png
   - name: kusama.w3f.community/erapoints/address
     url: https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png
   - name: kusama.w3f.community/score/address
     url: https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png
     expectedStatusCodes:
     - 200
     maxResponseTime: 5000
   - name: kusama.w3f.community/candidates
     url: https://kusama.w3f.community/candidates
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png
     expectedStatusCodes:
     - 200
     maxResponseTime: 5000
   - name: kusama.w3f.community/erastats
     url: https://kusama.w3f.community/erastats
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png
     expectedStatusCodes:
     - 200
     maxResponseTime: 5000
   - name: kusama.w3f.community/locationstats
     url: https://kusama.w3f.community/locationstats
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png
     expectedStatusCodes:
     - 200
     maxResponseTime: 5000
@@ -42,43 +42,43 @@ sites:
 #####################
   - name: polkadot.w3f.community/candidate/address
     url: https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
     expectedStatusCodes:
     - 200
     maxResponseTime: 5000
   - name: polkadot.w3f.community/erapoints/address
     url: https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
     expectedStatusCodes:
     - 200
     maxResponseTime: 5000
   - name: polkadot.w3f.community/score/address 
     url: https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
     expectedStatusCodes:
     - 200
     maxResponseTime: 5000
   - name: polkadot.w3f.community/candidates
     url: https://polkadot.w3f.community/candidates
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
     expectedStatusCodes:
     - 200
     maxResponseTime: 5000
   - name: polkadot.w3f.community/erastats 
     url: https://polkadot.w3f.community/erastats
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
     expectedStatusCodes:
     - 200
     maxResponseTime: 5000
   - name: polkadot.w3f.community/locationstats
     url:  https://polkadot.w3f.community/locationstats
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
     expectedStatusCodes:
     - 200
     maxResponseTime: 5000
   - name: Test site
     url: https://google.com
-    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/google_.png
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/google.png
 
 commitMessages:
   commitAuthorName: "1kv Bot"
