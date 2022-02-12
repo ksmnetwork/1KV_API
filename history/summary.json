@@ -2,7 +2,7 @@
   {
     "name": "kusama.w3f.community/candidate/address",
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "100.00%",
@@ -20,7 +20,7 @@
   {
     "name": "kusama.w3f.community/erapoints/address",
     "url": "https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png",
+    "icon": "https://github.com/ccris02/1KV_API/blob/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "100.00%",
@@ -38,7 +38,7 @@
   {
     "name": "kusama.w3f.community/score/address",
     "url": "https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-score-address",
     "status": "up",
     "uptime": "100.00%",
@@ -56,25 +56,25 @@
   {
     "name": "kusama.w3f.community/candidates",
     "url": "https://kusama.w3f.community/candidates",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3484,
-    "timeDay": 4583,
-    "timeWeek": 3320,
-    "timeMonth": 3484,
-    "timeYear": 3484,
+    "time": 3508,
+    "timeDay": 4864,
+    "timeWeek": 3361,
+    "timeMonth": 3508,
+    "timeYear": 3508,
     "dailyMinutesDown": {}
   },
   {
     "name": "kusama.w3f.community/erastats",
     "url": "https://kusama.w3f.community/erastats",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-erastats",
     "status": "up",
     "uptime": "100.00%",
@@ -92,7 +92,7 @@
   {
     "name": "kusama.w3f.community/locationstats",
     "url": "https://kusama.w3f.community/locationstats",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-locationstats",
     "status": "up",
     "uptime": "100.00%",
@@ -110,7 +110,7 @@
   {
     "name": "polkadot.w3f.community/candidate/address",
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
     "uptime": "100.00%",
@@ -128,7 +128,7 @@
   {
     "name": "polkadot.w3f.community/erapoints/address",
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "100.00%",
@@ -146,7 +146,7 @@
   {
     "name": "polkadot.w3f.community/score/address",
     "url": "https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
     "status": "up",
     "uptime": "100.00%",
@@ -164,7 +164,7 @@
   {
     "name": "polkadot.w3f.community/candidates",
     "url": "https://polkadot.w3f.community/candidates",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
     "status": "up",
     "uptime": "100.00%",
@@ -182,7 +182,7 @@
   {
     "name": "polkadot.w3f.community/erastats",
     "url": "https://polkadot.w3f.community/erastats",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erastats",
     "status": "up",
     "uptime": "100.00%",
@@ -200,7 +200,7 @@
   {
     "name": "polkadot.w3f.community/locationstats",
     "url": "https://polkadot.w3f.community/locationstats",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-locationstats",
     "status": "up",
     "uptime": "100.00%",
@@ -218,7 +218,7 @@
   {
     "name": "Test site",
     "url": "https://google.com",
-    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/google_.png",
+    "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/google.png",
     "slug": "test-site",
     "status": "up",
     "uptime": "100.00%",
