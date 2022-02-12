@@ -10,15 +10,9 @@ sites:
   - name: kusama.w3f.community/candidate/address
     url: https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
     icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png
-    expectedStatusCodes:
-    - 200
-    maxResponseTime: 5000
   - name: kusama.w3f.community/erapoints/address
     url: https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
     icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png
-    expectedStatusCodes:
-    - 200
-    maxResponseTime: 5000
   - name: kusama.w3f.community/score/address
     url: https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
     icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm_.png
