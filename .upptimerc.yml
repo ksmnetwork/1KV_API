@@ -6,28 +6,64 @@ repo: 1KV_API # The name of this repository
 sites:
   - name: kusama.w3f.community/candidate/address
     url: https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: kusama.w3f.community/erapoints/address
     url: https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: kusama.w3f.community/score/address
     url: https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: kusama.w3f.community/candidates
     url: https://kusama.w3f.community/candidates
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: kusama.w3f.community/erastats
     url: https://kusama.w3f.community/erastats
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: kusama.w3f.community/locationstats
     url: https://kusama.w3f.community/locationstats
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: polkadot.w3f.community/candidate/address
     url: https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: polkadot.w3f.community/erapoints/address
     url: https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: polkadot.w3f.community/score/address 
     url: https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: polkadot.w3f.community/candidates
     url: https://polkadot.w3f.community/candidates
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: polkadot.w3f.community/erastats 
     url: https://polkadot.w3f.community/erastats
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: polkadot.w3f.community/locationstats
     url:  https://polkadot.w3f.community/locationstats
+    expectedStatusCodes:
+    - 200
+    maxResponseTime: 5000
   - name: Test site
     url: https://google.com
 
